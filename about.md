@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
+### About Ks5810
+- Name: Keisuke Suzuki
+- Shcool: Hunter College
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+### Links
+- [GitHub](https://github.com/Ks5810)
+- [portfolio](https://ks5810.github.io/portfolio/)
 
