@@ -19,8 +19,6 @@ following the same syntax.
 
 
 
-
-
 | Week   | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 |  3   |[link to contribution](https://www.openstreetmap.org/user/Ks5810/history)| Open street map location | I created a location on Open street map.|
