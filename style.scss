@@ -252,11 +252,6 @@ nav {
 }
 
 .post {
-  .title{
-    h1 {
-      text-align: center;
-    }
-  }
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
@@ -303,14 +298,6 @@ table {
   td {
     border: 1px solid #eee;
     padding: 10px;
-  }
-} 
-
-.page {
-  .title {
-    h1, h2, h3, h4, h5 ,h6 {
-      text-align: center;
-    }
   }
 }
 

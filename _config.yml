@@ -25,7 +25,7 @@ avatar: https://avatars3.githubusercontent.com/u/33506119?s=400&v=4
 footer-links:
   email: Keisuke.Suzuki46@myhunter.cuny.edu
   github: Ks5810
-  linkedin: https://www.linkedin.com/in/keisuke-suzuki-b77600bb/after plus.google.com/
+  linkedin: https://www.linkedin.com/in/keisuke-suzuki-b77600bb/
 
 # CUSTOMIZE
 # The line below will be the URL of your weekly repository
@@ -53,7 +53,7 @@ baseurl: "/Ks5810-weekly"
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
-version: v1.2.0
+version: v4.0.0
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
