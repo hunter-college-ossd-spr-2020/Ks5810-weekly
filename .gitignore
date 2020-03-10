@@ -2,3 +2,4 @@
 _site
 .jekyll-cache
 post_template.md
+create_posts.sh
