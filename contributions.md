@@ -21,8 +21,9 @@ following the same syntax.
 
 
 
-| Week   | Contribution (Link)  | Type  | Description |
-|---|:---|:---|:---|
-|  3   |[link to contribution](https://www.openstreetmap.org/user/Ks5810/history)|Open street map location| I created a location on Open street map.|
-|  6   | [link to contribution](https://www.openstreetmap.org/changeset/81890437#map=19/34.74174/137.39309)| Open street map location    | Added a drug store near my home |
-|     |     |     |      |
+| Week | Contribution (Link)                                                                                | Type                     | Description                              |    |
+|:-----|:---------------------------------------------------------------------------------------------------|:-------------------------|:-----------------------------------------|:---|
+| 3    | [link to contribution](https://www.openstreetmap.org/user/Ks5810/history)                          | Open street map location | I created a location on Open street map. |    |
+| 6    | [link to contribution](https://www.openstreetmap.org/changeset/81890437#map=19/34.74174/137.39309) | Open street map location | Added a drug store near my home          |    |
+| 7    | [link to contribution](https://www.openstreetmap.org/changeset/82315498)                           | OSM location             | Added a community hall                   |    |
+| 7    | [link to contribution](https://www.openstreetmap.org/changeset/82316134)                                                                           | OSM location  | Added a shrine |  |
