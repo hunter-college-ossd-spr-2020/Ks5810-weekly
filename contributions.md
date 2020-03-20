@@ -27,3 +27,4 @@ following the same syntax.
 | 6    | [link to contribution](https://www.openstreetmap.org/changeset/81890437#map=19/34.74174/137.39309) | Open street map location | Added a drug store near my home          |    |
 | 7    | [link to contribution](https://www.openstreetmap.org/changeset/82315498)                           | OSM location             | Added a community hall                   |    |
 | 7    | [link to contribution](https://www.openstreetmap.org/changeset/82316134)                                                                           | OSM location  | Added a shrine |  |
+| 8 | [link to contribution](https://www.openstreetmap.org/changeset/82410632#map=17/34.73589/137.40507)| OSM location|Eddited a location by adding an English name |
