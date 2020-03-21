@@ -10,5 +10,5 @@ permalink: /about/
 
 ### Links
 - [GitHub](https://github.com/Ks5810)
-- [portfolio](https://ks5810.github.io/portfolio/)
+- [portfolio](https://ksuzu.net)
 
