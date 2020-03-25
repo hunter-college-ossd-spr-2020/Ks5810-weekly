@@ -30,3 +30,5 @@ following the same syntax.
 | 8 | [link to contribution](https://www.openstreetmap.org/changeset/82410632#map=17/34.73589/137.40507)| OSM location|Eddited a location by adding an English name |
 |8|[link to contribution](https://en.wikipedia.org/w/index.php?title=Sunny_Day_Service&oldid=946687467)|Wikipedia Edit|Added two recent albums to a wikipedia page about a Japanese rock band called Sunny Day Service||
 8 |[link to contribution](https://en.wikipedia.org/w/index.php?title=Sunny_Day_Service&oldid=946689317)|Wikipedia Edit|Added a new member to a page about a rockband called Sunny Day Service|
+| 9 |[link to contribution](https://www.openstreetmap.org/changeset/82622696)|OSM location| Added my favorite restaurant | |
+| 9 ||||
