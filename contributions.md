@@ -31,4 +31,4 @@ following the same syntax.
 |8|[link to contribution](https://en.wikipedia.org/w/index.php?title=Sunny_Day_Service&oldid=946687467)|Wikipedia Edit|Added two recent albums to a wikipedia page about a Japanese rock band called Sunny Day Service||
 8 |[link to contribution](https://en.wikipedia.org/w/index.php?title=Sunny_Day_Service&oldid=946689317)|Wikipedia Edit|Added a new member to a page about a rockband called Sunny Day Service|
 | 9 |[link to contribution](https://www.openstreetmap.org/changeset/82622696)|OSM location| Added my favorite restaurant | |
-| 9 ||||
+| 9 | [link to contribution ](https://lists.inkscape.org/hyperkitty/list/inkscape-devel@lists.inkscape.org/thread/ITRKF6V5WT4FDZF6PIBUOSNHD5H4YBBZ/)| Bug Report| Atemptted to report a bug in one of their instlattion script |
