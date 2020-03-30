@@ -5,9 +5,9 @@
 // IMPORTS
 // Import paths of sass files has to be relative, and all class can be
 // overridden using @extend keyword in child classes.
-@import "_sass/_variables.scss";
-@import "_sass/_highlights.scss";
-@import "_sass/_svg-icons.scss";
+@import "variables";
+@import "highlights";
+@import "svg-icons";
 
 /**************/
 /* BASE RULES */
@@ -163,7 +163,7 @@ img {
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
-    text-align: center;o import not found or unreadable: _sass/variables
+    text-align: center;
   }
 }
 
