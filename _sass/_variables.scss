@@ -14,13 +14,20 @@ $white: #fff;
 
 // Colors
 $blue: #4183C4;
-$post_code_color: #e583ab;
+$background_color: rgba(201, 182, 135, 0.95);
+$post_code_color: #b66f6f;
+//$post_code_background_color: #DD9D98;
+$post_code_background_color: $background_color;
 $post_pre_code_color: $gray;
+$post_pre_code_background_color: #c7ad86;
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+
+// Border valuables
+$border-radius: 0.5rem;
 
 // Mobile breakpoints
 @mixin mobile {

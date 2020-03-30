@@ -11,10 +11,10 @@
       word-wrap: normal;
       width: auto;
       padding: 0.7rem 2rem;
+      border-radius: 0.5rem;
       @include mobile() {
         padding: 0.5rem 1rem;;
       }
-      border-radius: 0.5rem;
     }
     pre > code {
       padding: 0;
@@ -23,13 +23,12 @@
       word-break: normal;
       white-space: pre;
       border: 0;
-      color: $post_pre_code_color;
     }
     pre, pre {
       width: auto;
       font-size: 85%;
       line-height: 1.45;
-      background-color: darken($lightGray, 5%);
+      background-color: $post_pre_code_background_color;
       border-radius: 0.5rem;
     }
     pre code {
@@ -39,7 +38,7 @@
       word-wrap: normal;
       background-color: initial;
       border: 0;
-      color: darken($gray, 5%);
+      color: $post_pre_code_color;
       border-radius: 0.5rem;
     }
 }

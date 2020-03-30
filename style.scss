@@ -3,24 +3,24 @@
 
 //
 // IMPORTS
-//
-
-// Import path of sass files has to be relative
+// Import paths of sass files has to be relative, and all class can be
+// overridden using @extend keyword in child classes.
 @import "_sass/variables";
 @import "_sass/highlights";
 @import "_sass/svg-icons";
-// Syntax highlighting @import is at the bottom of this file
 
 /**************/
 /* BASE RULES */
 /**************/
 html {
-    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
-    font-size: 100%;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  font-size: 100%;
 }
 
 body {
-	background: $white;
+  background: $background_color;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -48,6 +48,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+
   a {
     color: inherit;
   }
@@ -127,6 +128,7 @@ img {
   color: $black;
   background: $lightGray;
 }
+
 ::selection {
   color: $black;
   background: $lightGray;
@@ -136,12 +138,12 @@ img {
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after {
-    content: " ";
-    display: table;
+  content: " ";
+  display: table;
 }
 
 .clearfix:after {
-    clear: both;
+  clear: both;
 }
 
 /*********************/
@@ -262,15 +264,19 @@ nav {
     font-size: 22px;
     font-style: italic;
   }
-    code {
-        font-family:'Bitstream Vera Sans Mono','Courier', monospace;
-        padding: .2em .4em;
-        margin: 0;
-        font-size: 85%;
-        color: $post_pre_code_color;
-    }
+  // Added code section temporarily because post->code does not have to be
+  // highlighted
+  code {
+    font-family: 'Bitstream Vera Sans Mono', 'Courier', monospace;
+    padding: .2em .2em;
+    margin: 0;
+    font-size: 85%;
+    color: $post_code_color;
+    background-color: $post_code_background_color;
+    border-radius: $border-radius;
+  }
 
-.comments {
+  .comments {
     margin-top: 10px;
   }
 
@@ -294,7 +300,7 @@ footer {
 
 
 table {
-  border-collapse:collapse;
+  border-collapse: collapse;
   border: 1px solid #eee;
 
   th {
