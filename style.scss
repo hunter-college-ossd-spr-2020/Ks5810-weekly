@@ -3,8 +3,7 @@
 
 //
 // IMPORTS
-// Import paths of sass files has to be relative, and all class can be
-// overridden using @extend keyword in child classes.
+// Turned out to be missing sass_dir: _sass in _config.yml
 @import "variables";
 @import "highlights";
 @import "svg-icons";
