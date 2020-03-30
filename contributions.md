@@ -32,3 +32,6 @@ following the same syntax.
 8 |[link to contribution](https://en.wikipedia.org/w/index.php?title=Sunny_Day_Service&oldid=946689317)|Wikipedia Edit|Added a new member to a page about a rockband called Sunny Day Service|
 | 9 |[link to contribution](https://www.openstreetmap.org/changeset/82622696)|OSM location| Added my favorite restaurant | |
 | 9 | [link to contribution ](https://lists.inkscape.org/hyperkitty/list/inkscape-devel@lists.inkscape.org/thread/ITRKF6V5WT4FDZF6PIBUOSNHD5H4YBBZ/)| Bug Report| Atemptted to report a bug in one of their instlattion script |
+| 9 | [link to contribution](https://en.wikipedia.org/w/index.php?title=Sunny_Day_Service&oldid=948035018)| Wikipedia Edit | Added information about past members, also fixed name order to first to last name in info box | |
+| 9 | [link to contribution](https://en.wikipedia.org/w/index.php?title=Sunny_Day_Service&oldid=948036219)| Wikipedia Edit | Made genre section into flat list in info section.| ||||
+| 9 | [link to contribution ](https://gitlab.com/inkscape/inkscape-ci-docker/-/issues/4)| GitLab Issue | Opened an issue on inkscape-ci-docker as instructed | |
