@@ -3,8 +3,6 @@
 // VARIABLES
 //
 
-// Colors
-$blue: #4183C4;
 
 // Grays
 $black: #000;
@@ -13,6 +11,11 @@ $darkGray: #333;
 $gray: #666;
 $lightGray: #eee;
 $white: #fff;
+
+// Colors
+$blue: #4183C4;
+$post_code_color: #e583ab;
+$post_pre_code_color: $gray;
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
