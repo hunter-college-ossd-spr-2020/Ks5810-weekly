@@ -35,3 +35,5 @@ following the same syntax.
 | 9 | [link to contribution](https://en.wikipedia.org/w/index.php?title=Sunny_Day_Service&oldid=948035018)| Wikipedia Edit | Added information about past members, also fixed name order to first to last name in info box | |
 | 9 | [link to contribution](https://en.wikipedia.org/w/index.php?title=Sunny_Day_Service&oldid=948036219)| Wikipedia Edit | Made genre section into flat list in info section.| |
 | 9 | [link to contribution ](https://gitlab.com/inkscape/inkscape-ci-docker/-/issues/4)| GitLab Issue | Opened an issue on inkscape-ci-docker as instructed | |
+| 10 |  [link to contribution](https://gitlab.com/inkscape/inkscape-ci-docker/-/merge_requests/9)| GitLab Marge Request | Made a marge request to [inkscape-ci-docker](https://gitlab.com/inkscape/inkscape-ci-docker) | |
+| | | | | |
