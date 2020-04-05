@@ -4,3 +4,5 @@ _site
 post_template.md
 create_posts.sh
 create_next_post.sh
+example.sh
+
