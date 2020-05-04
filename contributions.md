@@ -35,7 +35,10 @@ following the same syntax.
 | 9    | [link to contribution](https://en.wikipedia.org/w/index.php?title=Sunny_Day_Service&oldid=948035018)| Wikipedia Edit | Added information about past members, also fixed name order to first to last name in info box | |
 | 9    | [link to contribution](https://en.wikipedia.org/w/index.php?title=Sunny_Day_Service&oldid=948036219)| Wikipedia Edit | Made genre section into flat list in info section.| |
 | 9    | [link to contribution](https://gitlab.com/inkscape/inkscape-ci-docker/-/issues/4)| GitLab Issue | Opened an issue on inkscape-ci-docker as instructed | |
-| 10   | [link to contribution](https://gitlab.com/inkscape/inkscape-ci-docker/-/merge_requests/9)| GitLab Marge Request | Made a marge request to [inkscape-ci-docker](https://gitlab.com/inkscape/inkscape-ci-docker) | |
+| 10   | [link to contribution](https://gitlab.com/inkscape/inkscape-ci-docker/-/merge_requests/9)| GitLab Merge Request | Made a marge request to [inkscape-ci-docker](https://gitlab.com/inkscape/inkscape-ci-docker) | |
 | 10   | [link to contribution](https://en.wikipedia.org/w/index.php?title=Toyohashi&oldid=949289625) | Wikipedia Edit | Reformatted comments for readabirity in the info section | | |
 | 10   | [link to contribution](https://en.wikipedia.org/w/index.php?title=Toyohashi&oldid=949291070) | Wikipedia Edit | Made City Symbols section visible, changed the dashes in the list to bullets for consistency | |
 | 10   | [link to contribution](https://www.openstreetmap.org/changeset/83108038)                     | Wikipedia Edit | Added a pond |  |
+| 11   | [link to contrib](https://github.com/hunter-college-ossd-spr-2020/umarkhan207322405-weekly/pull/5) | Blog Edit | Made a pull request for umars blog |
+| 11   | [link to contrib](https://gitlab.com/inkscape/inkscape-ci-docker/-/merge_requests/9) | inkscape-ci-docker | Fix merged |
+| 11   | [link to contrib](https://gitlab.com/inkscape/inkscape-web/-/merge_requests/70) | Gitlab Merge Request | Fixed [this issue](https://gitlab.com/inkscape/inkscape-web/-/issues/472) |
